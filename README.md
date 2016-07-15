@@ -14,7 +14,7 @@ Open a Markdown file and the status bar will display the number of characters (i
 
 ## Release Notes
 
-### 0.0.1
+### 0.1.0
 
 Initial release of Character Count extension.
 

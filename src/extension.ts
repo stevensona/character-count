@@ -26,7 +26,7 @@ export class CharacterCounter {
     private _statusBarItem: StatusBarItem;
 
     public getCharacterCount(doc: TextDocument): number {
-        return doc.getText.length;
+        return doc.getText().length;
     }
 
     public updateCharacterCount(): void {

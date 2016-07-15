@@ -2,7 +2,7 @@
     "name": "character-count",
     "displayName": "Character Count",
     "description": "Markdown Character Count - a status bar contribution that reports out the number of characters in a Markdown document as you interact with it.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "stevensona",
     "license": "MIT",
     "author": {
